@@ -1,0 +1,19 @@
+.Header{
+  align-items: center;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 15px;
+}
+
+.menu{
+  display: flex;
+  list-style-type: none;
+}
+
+.menu li{
+
+  font-weight: bold;
+  margin-right: 25px;
+
+}
